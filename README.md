@@ -1,5 +1,8 @@
 # qt5printers
 Pretty Printers for Qt5 in GDB
+Ref: https://github.com/KDE/kdevelop/tree/master/plugins/gdb/printers
+
+I was modified the files to match with my system
 
 ## How to config
 1. Copy the files `qt.py`, `helper.py` and `__init__.py` to `~/.gdb/qt5printers/` (please create one if you haven't have it)
